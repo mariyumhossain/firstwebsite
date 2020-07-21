@@ -1,0 +1,30 @@
+.home {
+    background-color: lightgrey;
+    margin: 30px
+}
+
+#parent{
+    background-color: mediumpurple;
+    margin: 10px
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.unorderedList{
+    list-style-type: none;
+}
+
+h3:hover{
+    color: lightgreen;
+}
+
+.container{
+    width: 150;
+    overflow: scroll;
+    background-color: lightskyblue;
+
+}
